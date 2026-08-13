@@ -10,15 +10,11 @@ Se consideran **facciones ilegales bandas** y todo aquel **criminal** o **person
 Se considera **criminal común** todo aquel criminal que no sea miembro de banda.
 {% endhint %}
 
-#### Bandas criminales y grupos delictivos
-
-Se considera **banda criminal** todo aquel **grupo delictivo** involucrado **en un mismo rol** de más de _**3 personas**_. Puedes **crear** una banda en el **servidor de Discord de criminales** de nuestra **comunidad**. Rolear de banda **sin** **tener una banda activa** en el servidor de Discord de criminales **conllevará** una **sanción** para **todos** los miembros involucrados.
-
 #### Secuestros
 
 Solo se podrá secuestrar **a un policía** si hay en total **4 agentes más** disponibles. Para saber cuántos agentes hay **disponibles** puedes **consultar** a un **moderador** con _**!mod**_.
 
-Para **secuestrar** a un **civil** o policía debe **existir** un **rol previo**. Es decir, deberás haberlo **perseguido** por _**un minuto por lo menos**_.\
+Para **secuestrar** a un **civil** o policía debe **existir** un **rol previo**. Es decir, deberás haberlo **perseguido** por **30 segundos&#x20;**_**por lo menos**_.\
 \
 Puedes **secuestrar** a cualquier persona **apuntándole** o **amenazándole** con un **arma**, pues deberán **valorar vida**, por **ejemplo**.
 
@@ -88,10 +84,6 @@ Cuentan como **robos** **especiales**aquellos que pueden realizar **bandas** de 
 {% endtab %}
 {% endtabs %}
 
-{% hint style="success" %}
-Los miembros de bandas criminales pueden **subir** su **nivel de banda** ejerciendo **actividades delictivas** y **progresando** su **carrera** como **banda criminal** dentro del **servidor**.
-{% endhint %}
-
 #### Criminales comunes
 
 Los **criminales comunes** únicamente podrán usar **Beretta M9** o **navajas**, las cuales podrán adquirir tanto en armerías y tiendas legales como en el Mercado Negro.
@@ -102,3 +94,36 @@ Los **criminales comunes** solo podrán robar **gasolineras** y **negocios menor
 
 Al **completar** el **robo**, podrán reclamarlo como **individuo**, no como **organizaicón** o **grupo**, sin importar la **cantidad** de criminales **implicados**. Solo se **recompensará** por aquellos roles que hayan sido ejecutados **sin faltas** de rol y hayan sido **completados** en su **totalidad**.
 
+#### Bandas criminales y grupos delictivos
+
+Se considera **banda criminal** todo aquel **grupo delictivo** involucrado **en un mismo rol** de más de _**3 personas**_. Puedes **crear** una banda en el **servidor de Discord de criminales** de nuestra **comunidad**. Rolear de banda **sin** **tener una banda activa** en el servidor de Discord de criminales **conllevará** una **sanción** para **todos** los miembros involucrados.
+
+#### Niveles de banda
+
+{% tabs %}
+{% tab title="First Tab" %}
+#### PDB (Proyecto de Banda)
+
+Es el nivel inicial, en el cual como mínimo 4 criminales empiezan a realizar actos delictivos en conjunto, ayudándose entre sí. No hacen mucho ruido pero sí se nota su presencia.
+
+Ejercen actividades básicas, como carterismo, robos menores, vandalismo, etc...
+
+***
+
+| Miembros | Armas               | Robos   | HQ       |
+| -------- | ------------------- | ------- | -------- |
+| 4-5      | Beretta M9, Navajas | Nivel 1 | No tiene |
+
+{% hint style="info" icon="xmark" %}
+Sin secuestros masivos, tráfico de bienes o alta tecnología.
+{% endhint %}
+{% endtab %}
+
+{% tab title="Second Tab" %}
+
+{% endtab %}
+{% endtabs %}
+
+{% hint style="success" %}
+Los miembros de bandas criminales pueden **subir** su **nivel de banda** ejerciendo **actividades delictivas** y **progresando** su **carrera** como **banda criminal** dentro del **servidor**.
+{% endhint %}
