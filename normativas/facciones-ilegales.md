@@ -195,3 +195,27 @@ Buena relación con Mafia Madre, dominancia logística, alta tecnología.
 {% hint style="success" %}
 Los miembros de bandas criminales pueden **subir** su **nivel de banda** ejerciendo **actividades delictivas** y **progresando** su **carrera** como **banda criminal** dentro del **servidor**.
 {% endhint %}
+
+#### Falsificación de documentos (DNI)
+
+Queda **totalmente prohibido** el roleo de falsificación de documentios oficiales.
+
+#### Hackeo y robo de información a organizaciones
+
+No se permite hackear sistemas del FBI, policía o agencias estatales de forma simple o irreal. Para obtener datos de alguna de estas será necesario un rol de infiltración o entrada en HQ (ambos deberán ser autorizados por fundación).
+
+Pueden recopilarse datos en secuestros y demás siempre que haya un contexto válido mediante interrogatorios.
+
+#### Sanciones y disolución de bandas
+
+Todas las bandas quedan sujetas al control y seguimiento administrativo. Además de acumulación de sanciones individuales, pueden obtener sanciones colectivas.
+
+Al acumular un total de 5 sanciones colectivas **activas** la banda será eliminada de forma automática y definitiva de no ser apelada en un plazo de 12h con un moptivo válido y pruebas.
+
+**La eliminación de la banda implica**:
+
+* Disolución total de la organización.
+* Pérdida de nivel, HQ, recursos, dinero y beneficios obtenidos.
+* Inhabilitación de la banda para volver a formarse bajo el mismo nombre o liderazgo.
+
+La reincidencia, evasión de sanciones o intento de ocultar infracciones podrá acelerar el proceso de disolución.
