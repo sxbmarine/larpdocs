@@ -26,11 +26,79 @@ Queda totalmente **prohibido secuestrar o retener** a personas que ejerzan **rol
 
 #### Robos
 
-Los **criminales comunes** solo podrán robar **gasolineras** y **negocios pequeños** como **cafetería**, tienda de **ropa**, **gasolineras**, **electrónica**, **etc**… No podrán robar **joyería**, **tool store**, **armería**, **etc**…
+Existen 4 tipos de robos dentro del servidor:
 
-Los **criminales** **de banda** solo podrán **robar**, a parte de los que los **criminales comunes** pueden, aquellos **negocios** que le **permita** su _**nivel**_ _**de banda**_.
+{% tabs %}
+{% tab title="Robos menores" %}
+#### Robos menores
+
+Cuentan como **robos** **menores** aquellos que **cualquier criminal** puede realizar.\
+» Robos a **gasolinera, resaurante, barbería, tienda de ropa, coches, etc...**
+
+* Máximo **3** rehenes **reales**
+* Máximo **1** rehén **ficticio**
+* Prohibidas **emboscadas** y maniobras **relacionadas**.
+* Recompensa de entre $**1.200** y $**2.000**
+{% endtab %}
+
+{% tab title="Robos regulares" %}
+#### Robos regulares
+
+Cuentan como **robos** **regulares** aquellos que pueden realizar **bandas** de **nivel 2+**.\
+» Robos a **armería y ferretería** (Tool Store)
+
+* Máximo **4** rehenes **reales**
+* Máximo **1** rehén **ficticio**
+* Prohibidas **emboscadas** y maniobras **relacionadas**.
+* Recompensa de entre $**1.500** y $**2.200**
+* Pueden robar objetos como GPS, munición, etc...\*
+
+**\*dentro de los límites que establezca facciones ilegales**
+{% endtab %}
+
+{% tab title="Robos mayores" %}
+#### Robos mayores
+
+Cuentan como **robos** **mayores** aquellos que pueden realizar **bandas** de **nivel 3+**.\
+» Robos a **concesionario y joyería.**
+
+* Máximo 6 rehenes **reales**
+* Máximo 2 rehenes **ficticios**
+* Se permiten **emboscadas** y maniobras **relacionadas**.\*\*
+* Recompensa de entre $**10.000** y $**12.500**
+
+**\*dentro de los límites que establezca facciones ilegales**\
+**\*\*siempre que se valoren la vida de los rehenes**
+{% endtab %}
+
+{% tab title="Robos especiales" %}
+#### Robos especiales
+
+Cuentan como **robos** **especiales**aquellos que pueden realizar **bandas** de **nivel 4+**.\
+» Robos a **banco central y cajeros.**
+
+* Máximo 10 rehenes **reales**
+* Máximo 3 rehenes **ficticios**
+* Se permiten **emboscadas** y maniobras **relacionadas**.\*\*
+* Recompensa de entre $**20.000** y $**25.000**
+* **Requieren planificación previa con ilegales**
+
+**\*dentro de los límites que establezca facciones ilegales**\
+**\*\*siempre que se valoren la vida de los rehenes**
+{% endtab %}
+{% endtabs %}
 
 {% hint style="success" %}
-Los criminales pueden **subir** su **nivel de banda** ejerciendo **actividades delictivas** y **progresando** su **carrera** como **banda criminal** dentro del **servidor**.
+Los miembros de bandas criminales pueden **subir** su **nivel de banda** ejerciendo **actividades delictivas** y **progresando** su **carrera** como **banda criminal** dentro del **servidor**.
 {% endhint %}
+
+#### Criminales comunes
+
+Los **criminales comunes** únicamente podrán usar **Beretta M9** o **navajas**, las cuales podrán adquirir tanto en armerías y tiendas legales como en el Mercado Negro.
+
+Los **criminales comunes** no pueden mantener **vínculos con bandas**, organizaciones delictivas o mafias. Pueden mantener una **relación amistosa**, sin alterar las **operaciones** o **roles** de las bandas.
+
+Los **criminales comunes** solo podrán robar **gasolineras** y **negocios menores** como **cafetería**, tienda de **ropa**, **gasolineras**, **electrónica**, **etc**… No podrán robar **joyería**, **tool store**, **armería**, **etc**…
+
+Al **completar** el **robo**, podrán reclamarlo como **individuo**, no como **organizaicón** o **grupo**, sin importar la **cantidad** de criminales **implicados**. Solo se **recompensará** por aquellos roles que hayan sido ejecutados **sin faltas** de rol y hayan sido **completados** en su **totalidad**.
 
