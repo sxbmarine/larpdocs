@@ -101,7 +101,7 @@ Se considera **banda criminal** todo aquel **grupo delictivo** involucrado **en 
 #### Niveles de banda
 
 {% tabs %}
-{% tab title="First Tab" %}
+{% tab title="PDB (0)" %}
 #### PDB (Proyecto de Banda)
 
 Es el nivel inicial, en el cual como mínimo 4 criminales empiezan a realizar actos delictivos en conjunto, ayudándose entre sí. No hacen mucho ruido pero sí se nota su presencia.
@@ -112,15 +112,83 @@ Ejercen actividades básicas, como carterismo, robos menores, vandalismo, etc...
 
 | Miembros | Armas               | Robos   | HQ       |
 | -------- | ------------------- | ------- | -------- |
-| 4-5      | Beretta M9, Navajas | Nivel 1 | No tiene |
+| 4-5      | Beretta M9, Navajas | Menores | No tiene |
 
 {% hint style="info" icon="xmark" %}
 Sin secuestros masivos, tráfico de bienes o alta tecnología.
 {% endhint %}
 {% endtab %}
 
-{% tab title="Second Tab" %}
+{% tab title="Pandilla (1)" %}
+#### Pandilla
 
+El grupo se está expandiendo lentamente y la ciudad empieza a escuchar rumores. No hay sospechas del lado policial pero sí un problema indiscutible.
+
+Aumenta la actividad y el número de robos a comercios.
+
+***
+
+| Miembros | Armas                 | Robos   | HQ       |
+| -------- | --------------------- | ------- | -------- |
+| 5-7      | Beretta M9, Colt 1911 | Menores | No tiene |
+
+{% hint style="info" icon="xmark" %}
+Sin secuestros masivos, tráfico de bienes o alta tecnología.
+{% endhint %}
+{% endtab %}
+
+{% tab title="Banda (2)" %}
+#### Banda
+
+El grupo es reconocido pero nadie sabe lo que está ocurriendo. Su presencia es clara y la policía es consciente de que un grupo está causando estragos mayores
+
+Su actividad va en ascenso y empiezan a robar nuevos negocios y con más fluidez.
+
+***
+
+| Miembros  | Armas                  | Robos     | HQ      |
+| --------- | ---------------------- | --------- | ------- |
+| Máximo 10 | Kriss Vector, Skorpion | Regulares | Mediano |
+
+{% hint style="info" icon="xmark" %}
+Acceso limitado a Mafia Madre, sin alta tecnología.
+{% endhint %}
+{% endtab %}
+
+{% tab title="Organización Criminal (3)" %}
+#### Organización Criminal
+
+El grupose ha expandido y la policía intenta luchar activamente contra el crimen. Su presencia es alta tanto en el ambiente delictivo como en la comunidad
+
+Su presencia dentro de los grupos delictivos es clara
+
+***
+
+| Miembros  | Armas                               | Robos   | HQ      |
+| --------- | ----------------------------------- | ------- | ------- |
+| Máximo 12 | Tec-9, Desert Eagle, Remington 870. | Mayores | Mediano |
+
+{% hint style="info" icon="xmark" %}
+Contacto directo con Mafia Madre, tecnología en cantidad y alta logística.
+{% endhint %}
+{% endtab %}
+
+{% tab title="Mafia (4)" %}
+#### Mafia
+
+La organización domina la ciudad en el aspecto delictivo, es respetado por los criminales y la policía y organizaciones gubernamentales están alertas para su captura.
+
+Ejercen actividades complejas y en cantidad, dominan el mercado ilegal.
+
+***
+
+| Miembros  | Armas                            | Robos      | HQ     |
+| --------- | -------------------------------- | ---------- | ------ |
+| Máximo 12 | PPSH-41, LMT L129A1, AK-47, M14. | Especiales | Grande |
+
+{% hint style="info" icon="xmark" %}
+Buena relación con Mafia Madre, dominancia logística, alta tecnología.
+{% endhint %}
 {% endtab %}
 {% endtabs %}
 
